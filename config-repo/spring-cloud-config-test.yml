@@ -1,1 +1,2 @@
-hello Im test
+config:
+  hello:  hello Im test
