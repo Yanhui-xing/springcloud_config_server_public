@@ -1,1 +1,2 @@
-hello Im dev
+config:
+  hello:  hello Im dev
